@@ -21,13 +21,13 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Load sounds for each planet
     loadSound('mercury', 'Mercury.mp3');
-    loadSound('venus', 'Venus.mp3');
+    loadSound('venus', 'Venus1.mp3');
     loadSound('earth', 'Earth.mp3');
     loadSound('mars', 'Mars.mp3');
     loadSound('jupiter', 'Jupiter.mp3');
     loadSound('saturn', 'Saturn.mp3');
     loadSound('uranus', 'Uranus.mp3');
-    loadSound('neptune', 'Neptune.mp3');
+    loadSound('neptune', 'Neptune1.mp3');
     loadSound('pluto', 'Pluto.mp3');
 
     // Function to play a sound, stopping previous sound if needed
